@@ -2,10 +2,12 @@
 The HR Analytics dashboard provides actionable insights into workforce demographics, compensation, absenteeism, and productivity. Findings highlight areas of concern such as absenteeism, salary equity, and overtime dependency. 
 
 **CREATE CALCULATED COLUMNS**
+
 Total Leaves = Sick Leaves + Unpaid Leaves.
 Overtime Pay = Overtime Hours * Job Rate.
 
 **CREATE KPIS**
+
 Headcount = COUNTROWS(Workforce)
 Average Salary = AVERAGE(Workforce[Annual Salary])
 Attrition Rate (if you add attrition flag later) = DIVIDE(AttritionCount, Headcount)
@@ -13,6 +15,7 @@ Average Sick Leaves = AVERAGE(Workforce[Sick Leaves])
 Overtime Hours per Employee =AVERAGE( Workforce [Overtime Hours]
 
 **DASHBOARD**
+
 Gender distribution (pie chart).
 Department-wise headcount (bar chart).
 Country/Center breakdown (map or stacked bar).
