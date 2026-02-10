@@ -27,6 +27,9 @@ Trend of leaves across tenure groups.
 Overtime hours by department.
 Correlation between job rate and overtime.
 
+<img width="1916" height="1018" alt="WORKFORCE HR ANALYTICS" src="https://github.com/user-attachments/assets/e6d49a0a-1b3e-41c2-b5ab-e42328839b8f" />
+
+
 **The Workforce HR Analytics Dashboard provides a holistic view of employee demographics, compensation, absenteeism, and productivity.
 It highlights diversity gaps, compensation inequities, and workload imbalances.
 It empowers HR leaders to design targeted interventions: diversity initiatives, fair pay structures, wellness programs, and workload redistribution.
