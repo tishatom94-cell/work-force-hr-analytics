@@ -1,6 +1,9 @@
 # work-force-hr-analytics
 The HR Analytics dashboard provides actionable insights into workforce demographics, compensation, absenteeism, and productivity. Findings highlight areas of concern such as absenteeism, salary equity, and overtime dependency. 
 
+<img width="1916" height="1018" alt="WORKFORCE HR ANALYTICS" src="https://github.com/user-attachments/assets/435311c5-5da7-4455-a41d-53c2b365360f" />
+
+
 **CREATE CALCULATED COLUMNS**
 
 Total Leaves = Sick Leaves + Unpaid Leaves.
@@ -26,9 +29,6 @@ Sick vs Unpaid leaves by department.
 Trend of leaves across tenure groups.
 Overtime hours by department.
 Correlation between job rate and overtime.
-
-<img width="1916" height="1018" alt="WORKFORCE HR ANALYTICS" src="https://github.com/user-attachments/assets/e6d49a0a-1b3e-41c2-b5ab-e42328839b8f" />
-
 
 **The Workforce HR Analytics Dashboard provides a holistic view of employee demographics, compensation, absenteeism, and productivity.
 It highlights diversity gaps, compensation inequities, and workload imbalances.
